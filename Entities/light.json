@@ -1,0 +1,9 @@
+{
+	"name": "light",
+	"size": [5.0,5.0],
+	"offset": [-2.5, -2.5, 1],
+	"texture": "Sprites/FX/torch.png",
+	"transparent": true,
+	"glow": true,
+	"script": "Entities/light.py"
+}

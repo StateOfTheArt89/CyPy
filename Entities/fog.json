@@ -1,0 +1,9 @@
+{
+	"name": "fog",
+	"size": [20.0,20.0],
+	"offset": [-10, -10, 1.5],
+	"texture": "Sprites/FX/fog.png",
+	"transparent": true,
+	"glow": true,
+	"script": "Entities/fog.py"
+}

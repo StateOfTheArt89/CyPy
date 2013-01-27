@@ -1,0 +1,11 @@
+{
+	"name": "gun01",
+	"size": [1.0,1.0],
+	"offset": [-0.5, -0.5, 0.01],
+	"texture": "Sprites/Items/Rifle64.png",
+	"texture2d": "Sprites/Items/Rifle32.png",
+	"bounding_box": [0.4,0.4],
+	"transparent": true,
+	"collectible": true,
+	"script": "Entities/gun.py"
+}

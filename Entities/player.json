@@ -1,0 +1,57 @@
+{
+	"name": "player",
+	"playable": true,
+	"size": [1.0,1.0],
+	"offset": [-0.5, -0.5, 0.4],
+	"texture": "Sprites/Player/CharacterAnimationFinalish6.png",
+	"texture_slice_x": 8,
+	"texture_slice_y": 8,
+	"bounding_box": [0.4,0.4],
+	"transparent": true,
+	"animations": [
+	{
+		"name": "idle",
+		"start": 32,
+		"end": 36,
+		"fps": 1,
+		"type": "pingpong"
+	},
+	{
+		"name": "idle_armed",
+		"start": 40,
+		"end": 42,
+		"fps": 1,
+		"type": "pingpong"
+	},
+	{
+		"name": "idle_shooting",
+		"start": 19,
+		"end": 19,
+		"fps": 0,
+		"type": "pingpong"
+	},
+	{
+		"name": "walk",
+		"start": 0,
+		"end": 5,
+		"fps": 6,
+		"type": "pingpong"
+	},
+	{
+		"name": "walk_armed",
+		"start": 8,
+		"end": 13,
+		"fps": 6,
+		"type": "pingpong"
+	}
+	,
+	{
+		"name": "walk_shooting",
+		"start": 16,
+		"end": 21,
+		"fps": 6,
+		"type": "pingpong"
+	}
+	],
+	"script": "Entities/player.py"
+}

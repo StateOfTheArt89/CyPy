@@ -1,0 +1,10 @@
+{
+	"name": "shot",
+	"size": [0.25,0.25],
+	"offset": [-0.125, -0.125, 0.5],
+	"texture": "Sprites/FX/Bullet.png",
+	"bounding_box": [0.4,0.4],
+	"transparent": true,
+	"glow": true,
+	"script": "Entities/shot.py"
+}
