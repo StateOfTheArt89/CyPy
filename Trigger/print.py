@@ -1,4 +1,5 @@
-
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 def onEnter(self, entity):
 	#print "ENTER"

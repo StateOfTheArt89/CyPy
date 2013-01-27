@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 # Copyright(c) Max Kolosov 2009-2011 maxkolosov@inbox.ru
 # http://vosolok2008.narod.ru
 # BSD license
